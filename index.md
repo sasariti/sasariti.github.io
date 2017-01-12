@@ -1,2 +1,2 @@
 # this is my page
-[digital humanities week 1](responses)
+[digital humanities week 1](Responses)
